@@ -1,4 +1,4 @@
-BRANCH@BRANCH!# Airbnb JavaScript Style Guide() {
+AAAAABRANCH@BRANCH!# Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
